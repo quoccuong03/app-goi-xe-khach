@@ -1,0 +1,10 @@
+> Task :webview_flutter_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\WEBSITE\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 62:02:20:70:0C:80:C8:0A:81:86:95:75:0A:68:19:EF
+SHA1: B7:BC:1E:4C:76:D5:8D:C5:7B:16:C3:3C:FA:44:A7:F0:C4:E3:32:4B
+SHA-256: 44:C0:24:5E:AC:E8:E7:C4:AB:BF:EC:96:9A:77:4E:0F:49:F9:7B:5A:7C:D5:E4:DB:EC:B7:5D:A6:DB:CB:55:75
+Valid until: Wednesday, November 5, 2053
+----------

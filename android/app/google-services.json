@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1091868052979",
+    "firebase_url": "https://cit-vgrap-default-rtdb.firebaseio.com",
+    "project_id": "cit-vgrap",
+    "storage_bucket": "cit-vgrap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091868052979:android:ea01c9dc7257c17cd11686",
+        "android_client_info": {
+          "package_name": "com.cit.vgrab.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7WpSEOxW8nKwK0TJrQcGKT-En-vmxt7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091868052979:android:52a3bb603cf36ee8d11686",
+        "android_client_info": {
+          "package_name": "com.cit.vgrab.dev.client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7WpSEOxW8nKwK0TJrQcGKT-En-vmxt7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
